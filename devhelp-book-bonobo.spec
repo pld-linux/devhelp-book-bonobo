@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/bonobo.tar.gz
+# Source0-md5:	378f8d9cbae0b84e25552c680395e9d7
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
