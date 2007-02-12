@@ -1,5 +1,5 @@
 Summary:	DevHelp book: bonobo
-Summary(pl.UTF-8):   Książka do DevHelpa o bonobo
+Summary(pl.UTF-8):	Książka do DevHelpa o bonobo
 Name:		devhelp-book-bonobo
 Version:	1.0
 Release:	1
